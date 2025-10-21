@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+python-dotenv
+ipykernel
+bs4
+pypdf
+docx2txt
+python-pptx
+langchain-text-splitters
+chromadb
+faiss-cpu
